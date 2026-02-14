@@ -7,7 +7,7 @@
 //---------------------------------------------
 const config = require('../config');
 const { cmd, commands } = require('../command');
-const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson } = require('../Lib/functions');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson } = require('../lib/functions');
 //--------------------------------------------
 // BLACKBOX COMMANDS
 //--------------------------------------------
