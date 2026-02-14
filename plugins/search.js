@@ -1,8 +1,8 @@
 //---------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI  
 //---------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author       : efeurhobo  
+//  @project_name : RAHUL-AI  
+//  @author       : rahulmaster  
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------
 
