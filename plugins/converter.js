@@ -1,7 +1,7 @@
 const { cmd } = require('../command');
 const config = require('../config');
 const axios = require('axios');
-const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson, empiretourl } = require('../Lib/functions');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson, empiretourl } = require('../lib/functions');
 const ffmpeg = require('fluent-ffmpeg');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 const fs = require('fs');
