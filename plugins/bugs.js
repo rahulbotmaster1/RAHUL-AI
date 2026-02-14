@@ -24,12 +24,12 @@ cmd({
 
         for (let i = 0; i < amount; i++) {
             await conn.sendMessage(m.chat, {
-                text: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+                text: "RAHUL-AI",
                 contextInfo: {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363337275149306@newsletter',
-                        newsletterName: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+                        newsletterJid: '120363423981735135@g.us',
+                        newsletterName: "RAHUL-AI",
                         serverMessageId: 2,
                     },
                 },
@@ -66,12 +66,12 @@ cmd({
 
         for (let i = 0; i < amount; i++) {
             await conn.sendMessage(victimJid, {
-                text: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+                text: "RAHUL-AI",
                 contextInfo: {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363337275149306@newsletter',
-                        newsletterName: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+                        newsletterJid: '120363423981735135@g.us',
+                        newsletterName: "RAHUL-AI",
                         serverMessageId: 2,
                     },
                 },
@@ -101,8 +101,8 @@ cmd({
             contextInfo: {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363337275149306@newsletter',
-                    newsletterName: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+                    newsletterJid: '120363423981735135@g.us',
+                    newsletterName: "RAHUL-AI",
                     serverMessageId: 2,
                 },
             },
@@ -136,12 +136,12 @@ cmd({
             await conn.sendMessage(m.chat, {
                 audio: { url },
                 mimetype: "audio/mpeg",
-                title: `𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 bug audio ${n}.mp3`,
+                title: `RAHUL-AI bug audio ${n}.mp3`,
                 contextInfo: {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363337275149306@newsletter',
-                        newsletterName: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+                        newsletterJid: '120363423981735135@g.us',
+                        newsletterName: "RAHUL-AI",
                         serverMessageId: 2,
                     },
                 },
