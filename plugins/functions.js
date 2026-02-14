@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const config = require('../config');
-const { isUrl } = require('../Lib/functions');  // Importing the isUrl function
+const { isUrl } = require('../lib/functions');  // Importing the isUrl function
 const { cmd, commands } = require('../command');
 // List of bad words to check against
 const badWords = ["wtf", "mia", "xxx", "fuck", "sex", "huththa", "pakaya", "ponnaya", "hutto", "lol"];
