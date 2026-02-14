@@ -2,7 +2,7 @@ const { cmd, commands } = require('../command'); const config = require('../conf
 const prefix = config.PREFIX; // Get the prefix from the config
 
 // Global bug message configuration
- global.xbug2 = { key: { remoteJid: 'status@broadcast', fromMe: false, participant: '0@s.whatsapp.net', }, message: { listResponseMessage: { title: "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳", }, }, };
+ global.xbug2 = { key: { remoteJid: 'status@broadcast', fromMe: false, participant: '0@s.whatsapp.net', }, message: { listResponseMessage: { title: "RAHUL-AI", }, }, };
 
 
 
