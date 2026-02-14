@@ -1,8 +1,8 @@
 //---------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI  
 //---------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author       : efeurhobo  
+//  @project_name : RAHUL-AI  
+//  @author       : rahulmaster  
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------
 
@@ -86,9 +86,9 @@ cmd({
     filename: __filename,
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        const number = config.OWNER_NUMBER || "+2348078582627";
-        const name = config.OWNER_NAME || "𝙴𝚖𝚙𝚒𝚛𝚎 𝚃𝚎𝚌𝚑";
-        const info = global.botname || "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳";
+        const number = config.OWNER_NUMBER || "919356730236";
+        const name = config.OWNER_NAME || "Rahul Master";
+        const info = global.botname || "RAHUL-AI";
 
         const vcard = `BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nORG:${info};\nTEL;type=CELL;type=VOICE;waid=${number.replace("+", "")}:${number}\nEND:VCARD`;
 
@@ -99,10 +99,10 @@ cmd({
             },
             contextInfo: {
     externalAdReply: {
-        title: global.botname || "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+        title: global.botname || "RAHUL-AI",
         body: "𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝚘𝚠𝚗𝚎𝚛",
         renderLargerThumbnail: true,
-        thumbnailUrl: "https://files.catbox.moe/z7c67w.jpg",
+        thumbnailUrl: "https://i.ibb.co/zV930dMN/temp.jpg",
         mediaType: 2,
         sourceUrl: `https://wa.me/${number.replace("+", "")}?text=Hello, I am ${pushname}`
     }
@@ -123,9 +123,9 @@ cmd({
     filename: __filename,
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        const number = global.devs || "2348078582627";
-        const name = "𝙴𝚖𝚙𝚒𝚛𝚎 𝚃𝚎𝚌𝚑";
-        const info = global.botname || "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳";
+        const number = global.devs || "919356730236";
+        const name = "Rahul Master";
+        const info = global.botname || "RAHUL-AI";
 
         const vcard = `BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nORG:${info};\nTEL;type=CELL;type=VOICE;waid=${number.replace("+", "")}:${number}\nEND:VCARD`;
 
@@ -136,10 +136,10 @@ cmd({
             },
             contextInfo: {
     externalAdReply: {
-        title: global.botname || "𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳",
+        title: global.botname || "RAHUL-AI",
         body: "𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛",
         renderLargerThumbnail: true,
-        thumbnailUrl: "https://files.catbox.moe/z7c67w.jpg",
+        thumbnailUrl: "https://i.ibb.co/zV930dMN/temp.jpg",
         mediaType: 2,
         sourceUrl: `https://wa.me/${number.replace("+", "")}?text=Hello Developer, i am  ${pushname}`
     }
@@ -193,8 +193,8 @@ cmd({
 }, async (conn, mek, m, { from, quoted }) => {
     try {
         let madeMenu = `
-╭────「 𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 」────◆  
-│ ∘ 𝙽𝚊𝚖𝚎: 𝙴𝚏𝚎𝚞𝚛𝚑𝚘𝚋𝚘 𝙱𝚞𝚕𝚕𝚒𝚜𝚑  
+╭────「 RAHUL-AI 」────◆  
+│ ∘ 𝙽𝚊𝚖𝚎: Rahul Master  
 │ ∘ 𝙰𝚌𝚌: 8078582627  
 │ ∘ 𝙱𝚊𝚗𝚔: 𝙾𝚙𝚊𝚢  
 │ ∘ 𝙽𝚘𝚝𝚎: 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝 𝚊𝚏𝚝𝚎𝚛 𝚙𝚊𝚢𝚖𝚎𝚗𝚝 .
@@ -202,7 +202,7 @@ cmd({
 
         await conn.sendMessage(from, { 
             image: { 
-                url: "https://files.catbox.moe/z7c67w.jpg"
+                url: "https://i.ibb.co/S4ZBRTrF/temp.jpg"
             }, 
             caption: madeMenu 
         }, { quoted: mek });
