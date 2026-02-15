@@ -1,7 +1,7 @@
 const { cmd, commands } = require('../command');
 const config = require('../config')
 const axios = require('axios');
-const { fetchJson } = require('../Lib/functions');
+const { fetchJson } = require('../lib/functions');
 
 // Command: bible
 cmd({
