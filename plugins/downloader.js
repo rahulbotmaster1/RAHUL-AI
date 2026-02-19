@@ -36,7 +36,7 @@ cmd({
       const url = data.url;
 
       const response = await fetch(
-        `https://cdn402.savetube.vip/media/dB2GMQYTXGU/uvindu-ayshcharya-ft-dilubeats-me-hitha-sanasa-me-hit-snsaa-official-music-video-128-ytshorts.savetube.me.mp3=${encodeURIComponent(url)}`
+        `https://api.giftedtech.co.ke/api/download/ytmp3?apikey=gifted&url=https%3A%2F%2Fyoutu.be%2FqF-JLqKtr2Q%3Ffeature%3Dshared&quality=128kbps=${encodeURIComponent(url)}`
       );
       const json = await response.json();
       
