@@ -47,7 +47,7 @@ _Click the button below to fork RAHUL AI repository to your GitHub account_
 
 > sᴇssɪᴏɴ ɪᴅ sᴇʀᴠᴇʀ 2
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code2-green?style=for-the-badge&logo=opencv&logoColor=black)](known-debor-rahulhiran440-0cf3c18b.koyeb.app/)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code2-green?style=for-the-badge&logo=opencv&logoColor=black)](known-debor-rahulhiran440-0cf3c18b.koyeb.app./)
 
 > 3.  ᴅᴏᴡɴʟᴏᴀᴅ ʙᴏᴛ ғɪʟᴇ
     
